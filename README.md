@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Eva Panimbono 👋
 
-<!--
-**evapanimbono/evapanimbono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | QA & Software Scripting
 
-Here are some ideas to get you started:
+I am a Software Engineer with 8+ years of IT experience specializing in software development and quality assurance. Passionate about building robust web applications, writing clean code, and implementing automated testing pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases & Backend Infrastructure:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![REST API](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**QA, Testing & Management:**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+* **🏢 [edificio_app](https://github.com/evapanimbono/edificio_app):** Full-stack property and contract management platform built with Django REST Framework, PostgreSQL, Celery, and React.[cite: 4]
+* **🤝 [VenezuelaTeAyuda](https://github.com/evapanimbono/VenezuelaTeAyuda):** Web platform connecting job opportunities with affected individuals during local crisis events.[cite: 4]
+
+---
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/evapanimbono](https://www.linkedin.com/in/evapanimbono)[cite: 4]
+* **Location:** Madrid, Spain[cite: 4]
