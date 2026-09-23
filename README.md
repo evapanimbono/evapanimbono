@@ -32,12 +32,12 @@ I am a Software Engineer with 8+ years of IT experience specializing in software
 
 ### 📌 Featured Projects
 
-* **🏢 [edificio_app](https://github.com/evapanimbono/edificio_app):** Full-stack property and contract management platform built with Django REST Framework, PostgreSQL, Celery, and React.[cite: 4]
-* **🤝 [VenezuelaTeAyuda](https://github.com/evapanimbono/VenezuelaTeAyuda):** Web platform connecting job opportunities with affected individuals during local crisis events.[cite: 4]
+* **🏢 [edificio_app](https://github.com/evapanimbono/edificio_app):** Full-stack property and contract management platform built with Django REST Framework, PostgreSQL, Celery, and React.
+* **🤝 [VenezuelaTeAyuda](https://github.com/evapanimbono/VenezuelaTeAyuda):** Web platform connecting job opportunities with affected individuals during local crisis events.
 
 ---
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/evapanimbono](https://www.linkedin.com/in/evapanimbono)[cite: 4]
-* **Location:** Madrid, Spain[cite: 4]
+* **LinkedIn:** [linkedin.com/in/evapanimbono](https://www.linkedin.com/in/evapanimbono)
+* **Location:** Madrid, Spain
